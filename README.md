@@ -7,8 +7,6 @@
 
 ## 📄 Project Report
 
-📎 [Download the full PDF report](Capstone%20Final%20Report.pdf)
-
 ## 🧠 Project Objective
 
 To explore and implement machine learning techniques (Random Forest, Logistic Regression, and Hybrid Models) to detect and prevent fraudulent credit card transactions in real time.
