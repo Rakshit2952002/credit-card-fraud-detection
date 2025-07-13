@@ -1,13 +1,13 @@
 # 💳 Credit Card Fraud Detection System
 
 > 📘 Final-year Capstone Project submitted at VIT Vellore, May 2024  
-> 🎓 B.Tech in Computer Science and Engineering (IoT Specialization)  
+> 🎓 B.Tech in Computer Science and Engineering  
 
 ---
 
 ## 📄 Project Report
 
-📎 [Download the full PDF report](Capstone%20Final%20Report.pdf)
+📎 [Download the full PDF report](Capstone Final Report.pdf)
 
 ## 🧠 Project Objective
 
