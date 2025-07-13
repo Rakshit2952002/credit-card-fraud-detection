@@ -7,7 +7,7 @@
 
 ## 📄 Project Report
 
-📎 [Download the full PDF report](Capstone Final Report.pdf)
+📎 [Download the full PDF report](Capstone%20Final%20Report.pdf)
 
 ## 🧠 Project Objective
 
