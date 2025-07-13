@@ -17,6 +17,13 @@ To explore and implement machine learning techniques (Random Forest, Logistic Re
 - Only 492 were fraudulent (class imbalance ~0.17%)
 - Used anonymized Kaggle dataset
 
+## 📂 Code Files
+
+- `random_forest.py`: Random Forest classifier with confusion matrix and ROC-AUC
+- `logistic_regression.py`: Logistic Regression implementation
+- `hybrid_model.py`: Ensemble model combining both classifiers
+
+
 ## 🛠️ Technologies Discussed
 
 - Python (Scikit-learn, Pandas, NumPy)
